@@ -1,2 +1,3 @@
-# SudokuSolver
-Solves a sudoku using constraint satisfaction problem
+# Sudoku
+
+Sudoku assignment AI: Principles & Techniques
